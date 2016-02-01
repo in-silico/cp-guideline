@@ -1,6 +1,4 @@
-# curriculum-cp
-
-Competitive programming guideline
+# Competitive programming guideline
 
 
 ## About
