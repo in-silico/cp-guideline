@@ -33,23 +33,28 @@ disjoint set ||
 
 graphs I | requisites | 
 :-- | :--: | 
-grap representation | basic data structures |
+graph representation | basic data structures |
 bfs / dfs ||
 topological sort ||
 bipartite graph check ||
 shortest path ||
-minimun spanning tree ||
+minimum spanning tree ||
 special graphs ||
 
 strings I | requisites | 
 :-- | :--: | 
 overview ||
-string matching ||
+string matching - KMP||
+string matching - Z algorithm ||
 
 Dynamic programming I | requisites | 
 :-- | :--: | 
 overview ||
-string matching ||
+1D ||
+2D ||
+
+
+**_Work in progress_**
 
 ____
 by in-silico
