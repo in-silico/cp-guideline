@@ -30,6 +30,7 @@ vector ||
 queue ||
 dequeue ||
 stack ||
+list ||
 
 Basic data structures II | requisites |
 :-- | :--: | 
