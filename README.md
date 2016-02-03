@@ -28,8 +28,16 @@ Basic data structures | requisites |
 :-- | :--: | 
 vector ||
 queue ||
+dequeue ||
 stack ||
+
+Basic data structures II | requisites |
+:-- | :--: | 
 disjoint set ||
+priority queue ||
+set ||
+map ||
+
 
 graphs I | requisites | 
 :-- | :--: | 
@@ -37,6 +45,7 @@ graph representation | basic data structures |
 bfs / dfs ||
 topological sort ||
 bipartite graph check ||
+bridges and articulation points||
 shortest path ||
 minimum spanning tree ||
 special graphs ||
