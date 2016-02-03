@@ -9,47 +9,47 @@ the main goal in this project is to be a reference for students at UTP.
 There are weekly meetings at (PUT ROOM HERE), feel free to assist there
 and make questions, solve problems and have fun (:
 
-We encourage everyone to take part of this project, 
-even if you don't like the competitive programming. 
+We encourage everyone to take part of this project,
+even if you don't like the competitive programming.
 There are really amazing topics to learn about.
 
 ## The plan
 We aim to talk about the following topics through the semester. (In that order).
 
-Introduction | requisites | 
-:-- | :--: | 
+Introduction | Requisites |
+:-- | :--: |
 Introduction to competitive programming ||
 Judging system ||
+Basic structure C++/Java ||
 Input / output ||
-classical problems ||
+Classical problems ||
 
+Basic data structures | Requisites |
+:-- | :--: |
+Vector ||
+Queue ||
+Stack ||
+Disjoint set ||
 
-Basic data structures | requisites | 
-:-- | :--: | 
-vector ||
-queue ||
-stack ||
-disjoint set ||
+Graphs I | requisites | 
+:-- | :--: |
+Grap representation | Basic data structures |
+Bfs / Dfs ||
+Topological sort ||
+Bipartite graph check ||
+Shortest path ||
+Minimun spanning tree ||
+Special graphs ||
 
-graphs I | requisites | 
-:-- | :--: | 
-grap representation | basic data structures |
-bfs / dfs ||
-topological sort ||
-bipartite graph check ||
-shortest path ||
-minimun spanning tree ||
-special graphs ||
+Strings I | Requisites |
+:-- | :--: |
+Overview ||
+String matching ||
 
-strings I | requisites | 
-:-- | :--: | 
-overview ||
-string matching ||
-
-Dynamic programming I | requisites | 
-:-- | :--: | 
-overview ||
-string matching ||
+Dynamic programming I | Requisites |
+:-- | :--: |
+Overview ||
+String matching ||
 
 ____
 by in-silico
