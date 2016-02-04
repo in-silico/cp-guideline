@@ -63,8 +63,20 @@ overview ||
 1D ||
 2D ||
 
+Math I | requisites | 
+:-- | :--: | 
+gcd / lcm ||
+Modular arithmetic ||
+
+Geometry I | requisites | 
+:-- | :--: | 
+||
+ ||
+
 
 **_Work in progress_**
+
+[Practice problems](https://github.com/in-silico/cp-guideline/blob/master/Problems.md)
 
 ____
 <p align="center"><img src="https://cloud.githubusercontent.com/assets/14989202/11768037/94347c26-a18e-11e5-84ad-a8554c9fe75d.png" width=110px></img></p>
