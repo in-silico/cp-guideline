@@ -1,6 +1,8 @@
 Practice problems
 =================
 
+[day 0 - example](https://www.urionlinejudge.com.br/judge/en/problems/view/1366)
+
 I/O - examples | url |
 :-- | :--: | 
 Multiples |https://www.urionlinejudge.com.br/judge/en/problems/view/1044|
