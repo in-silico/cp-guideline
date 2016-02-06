@@ -11,4 +11,5 @@ Password | https://www.urionlinejudge.com.br/judge/en/problems/view/1114 |
 
 Basic data structures I | url |
 :-- | :--: | 
-diamonds | https://www.urionlinejudge.com.br/judge/en/problems/view/1069 | 
+stack | https://www.urionlinejudge.com.br/judge/en/problems/view/1069 | 
+disjoint set | http://codeforces.com/problemset/problem/277/A |
