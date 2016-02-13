@@ -24,7 +24,7 @@ Input / output ||
 classical problems ||
 
 
-Basic data structures | requisites | 
+basic data structures | requisites | 
 :-- | :--: | 
 vector ||
 queue ||
@@ -32,7 +32,7 @@ dequeue ||
 stack ||
 list ||
 
-Basic data structures II | requisites |
+basic data structures II | requisites |
 :-- | :--: | 
 disjoint set ||
 priority queue ||
@@ -57,14 +57,19 @@ overview ||
 string matching - KMP||
 string matching - Z algorithm ||
 
-Dynamic programming I | requisites | 
+dynamic programming I | requisites | 
 :-- | :--: | 
 overview ||
 1D ||
+Fibonacci example ||
+Palindromes ||
 2D ||
+
 
 Math I | requisites | 
 :-- | :--: | 
+eratosthenes sieve ||
+primes ||
 gcd / lcm ||
 Modular arithmetic ||
 
