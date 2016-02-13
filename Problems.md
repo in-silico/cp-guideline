@@ -9,14 +9,15 @@ Multiples |https://www.urionlinejudge.com.br/judge/en/problems/view/1044|
 Fibonnaci |https://www.urionlinejudge.com.br/judge/en/problems/view/1151|
 Password | https://www.urionlinejudge.com.br/judge/en/problems/view/1114 |
 
-Basic data structures I | url |
+basic data structures I | url |
 :-- | :--: |
 stack | https://www.urionlinejudge.com.br/judge/en/problems/view/1069 |
 disjoint set | http://codeforces.com/problemset/problem/277/A<br>https://goo.gl/0wIXtr<br>https://goo.gl/ZgP5I7 |
 
-Graphs | url |
+graphs | url |
 :-- | :--: |
-dfs | https://goo.gl/8pCyjA |
+dfs | https://www.hackerearth.com/problem/algorithm/monks-birthday-treat/ |
+bfs | https://www.urionlinejudge.com.br/judge/en/problems/view/1923 |
 bfs | https://www.hackerearth.com/problem/algorithm/dhoom-4/ |
 dfs / bfs | http://codeforces.com/contest/598/problem/D |
-disjoint set / dfs | https://goo.gl/Wu2V5s |
+dsu | https://www.hackerearth.com/problem/algorithm/kingdom-of-monkeys/ |
