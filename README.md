@@ -6,15 +6,17 @@ This is another guide about the basic topics in competitive programming,
 the main goal in this project is to be a reference for students at UTP.
 
 ## Meetings
-There are weekly meetings at (PUT ROOM HERE), feel free to assist there
-and make questions, solve problems and have fun (:
+There are weekly meetings at R-214 (Universidad Tecnológica de Pereira),
+feel free to assist there and make questions, solve problems and have fun (:
+
+The meetings are every thursday at 4pm.
 
 We encourage everyone to take part of this project, 
 even if you don't like the competitive programming. 
 There are really amazing topics to learn about.
 
 ## The plan
-We aim to talk about the following topics through the semester. (In that order).
+We aim to talk about the following topics. (in that order)
 
 Introduction | requisites | 
 :-- | :--: | 
@@ -71,15 +73,42 @@ Math I | requisites |
 eratosthenes sieve ||
 primes ||
 gcd / lcm ||
-Modular arithmetic ||
+modular arithmetic ||
+probabilities ||
+
+Algorithms | requisites |
+:-- | :--: | 
+sliding window ||
+sweep line ||
+Mo's algorithm ||
 
 Geometry I | requisites | 
 :-- | :--: | 
-||
- ||
+introduction ||
+vectors ||
+line-point distance ||
+polygon area ||
+line-line intersection ||
+
+
+Geometry II | requisites | 
+:-- | :--: | 
+finding a circle from 3 points ||
+convex hull ||
+
+Advanced datastructures | requisites | 
+:-- | :--: | 
+trie ||
+binary indexed tree ||
+segment tree ||
+treap ||
 
 
 **_Work in progress_**
+
+
+## Practice
+We have selected some problems in order to practice all that theory.
 
 [Practice problems](https://github.com/in-silico/cp-guideline/blob/master/Problems.md)
 
