@@ -17,7 +17,9 @@ disjoint set | http://codeforces.com/problemset/problem/277/A<br>https://goo.gl/
 graphs | url |
 :-- | :--: |
 dfs | https://www.hackerearth.com/problem/algorithm/monks-birthday-treat/ |
+dfs | http://codeforces.com/contest/598/problem/D |
 bfs | https://www.urionlinejudge.com.br/judge/en/problems/view/1923 |
 bfs | https://www.hackerearth.com/problem/algorithm/dhoom-4/ |
-dfs / bfs | http://codeforces.com/contest/598/problem/D |
 dsu | https://www.hackerearth.com/problem/algorithm/kingdom-of-monkeys/ |
+dsu | https://www.urionlinejudge.com.br/judge/en/problems/view/1527 |
+
