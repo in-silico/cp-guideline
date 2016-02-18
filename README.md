@@ -48,7 +48,6 @@ graph representation | basic data structures |
 bfs / dfs ||
 topological sort ||
 bipartite graph check ||
-bridges and articulation points||
 shortest path ||
 minimum spanning tree ||
 special graphs ||
@@ -90,6 +89,11 @@ line-point distance ||
 polygon area ||
 line-line intersection ||
 
+graphs II | requisites | 
+:-- | :--: | 
+strongly connected components |  |
+bridges and articulation points||
+topological sort ||
 
 Geometry II | requisites | 
 :-- | :--: | 
