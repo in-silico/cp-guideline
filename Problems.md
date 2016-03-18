@@ -31,4 +31,5 @@ kruskal | https://www.hackerearth.com/code-monk-minimum-spanning-tree/algorithm/
 kruskal | https://icpcarchive.ecs.baylor.edu/index.php?option=onlinejudge&page=show_problem&problem=5013 |
 kruskal | https://www.hackerearth.com/code-monk-minimum-spanning-tree/algorithm/quantitative-coefficient/ |
 dijkstra | https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8&category=657&page=show_problem&problem=4897 |
+dijkstra | http://www.spoj.com/problems/EZDIJKST/ |
 
