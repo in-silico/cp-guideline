@@ -67,6 +67,13 @@ Palindromes ||
 2D ||
 
 
+probability I | requisites | 
+:-- | :--: | 
+overview | dynamic programming I|
+probability ||
+expected value ||
+
+
 Math I | requisites | 
 :-- | :--: | 
 eratosthenes sieve ||
