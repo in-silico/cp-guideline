@@ -80,7 +80,6 @@ eratosthenes sieve ||
 primes ||
 gcd / lcm ||
 modular arithmetic ||
-probabilities ||
 
 Algorithms | requisites |
 :-- | :--: | 
