@@ -15,6 +15,12 @@ We encourage everyone to take part of this project,
 even if you don't like the competitive programming. 
 There are really amazing topics to learn about.
 
+## Aditional Resources.
+
+  - Arup Guha
+    - [Programming Team Modules: Course One](http://www.cs.ucf.edu/~dmarino/progcontests/modules/firstcourse.html)
+    - [Programming Team Modules: Course Two](http://www.cs.ucf.edu/~dmarino/progcontests/modules/secondcourse.html)
+
 ## The plan
 We aim to talk about the following topics. (in that order)
 
