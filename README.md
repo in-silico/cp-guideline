@@ -128,6 +128,10 @@ We have selected some problems in order to practice all that theory.
 
 [Practice problems](https://github.com/in-silico/cp-guideline/blob/master/Problems.md)
 
+## Online problems 
+
+[Problem sets - Competitive programming](https://github.com/vhf/free-programming-books/blob/master/problem-sets-competitive-programming.md)
+
 ____
 <a href="//github.com/in-silico" target="_blank"><p align="center"><img src="https://cloud.githubusercontent.com/assets/14989202/11768037/94347c26-a18e-11e5-84ad-a8554c9fe75d.png" width=110px></img></p></a>
 
