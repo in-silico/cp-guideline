@@ -19,10 +19,10 @@ hay temas realmente increíbles para aprender.
 
   - **Cursos:**
   	- [How to Win Coding Competitions: Secrets of Champions](https://www.edx.org/course/how-win-coding-competitions-secrets-itmox-i2cpx-0)¹
-  - **Libros**:
+  - **Libros:**:
   	- Competitive Programming 3 | Steven & Felix Halim.
   	- Introduction to Algorithms | Thomas H. Cormen.
- - **Jueces**:
+  - **Jueces:**:
   	- HackerRank
   	- Codeforces
   	- UVa
