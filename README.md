@@ -18,16 +18,16 @@ hay temas realmente increíbles para aprender.
 ## Recursos adicionales.
 
   - **Cursos:**
-  	- [How to Win Coding Competitions: Secrets of Champions](https://www.edx.org/course/how-win-coding-competitions-secrets-itmox-i2cpx-0)¹
+    - [How to Win Coding Competitions: Secrets of Champions](https://www.edx.org/course/how-win-coding-competitions-secrets-itmox-i2cpx-0)¹
   - **Libros:**
-  	- Competitive Programming 3 | Steven & Felix Halim.
-  	- Introduction to Algorithms | Thomas H. Cormen.
+    - Competitive Programming 3 | Steven & Felix Halim.
+    - Introduction to Algorithms | Thomas H. Cormen.
   - **Jueces:**
-  	- HackerRank
-  	- Codeforces
-  	- UVa
-  	- URI
-  	- USACO
+    - HackerRank
+    - Codeforces
+    - UVa
+    - URI
+    - USACO
 
 ¹ El curso inicia el lunes 6 de marzo y tiene una duración de 5 semanas.
 
@@ -35,13 +35,20 @@ hay temas realmente increíbles para aprender.
 
 Semana 1 | Material |
 :-- | :--: |
-Introducción a la programación competitiva | [Diapositivas](https://github.com/in-silico/cp-guideline/blob/master/Material/Semana-1/Introduccion.pdf) |
+El rol de los algoritmos en la computación | **Libro:** Capítulo 1 (pag. 5) Introduction to Algorithms |
+Tips para un programador competitivo | **Libro:** Capítulo 1 (pag. 1) Competitive Programming 3 |
 Ejercicios | [Warmup - HackerRank](https://www.hackerrank.com/domains/algorithms/warmup) |
 
 Semana 2 | Material |
 :-- | :--: |
-Introducción al curso de la universidad ITMO | [How to Win Coding Competitions: Secrets of Champions](https://www.edx.org/course/how-win-coding-competitions-secrets-itmox-i2cpx-0) |
+Introducción al curso de la universidad ITMO | **Curso:** How to Win Coding Competitions: Secrets of Champions |
 Ejercicios | [Week 1 - ITMOx Course](https://courses.edx.org/courses/course-v1:ITMOx+I2CPx+1T2017/courseware/5f7ded3dde75420f8da894830d69e7e4/05c1037ba1e2450e931dfbd1c2d1856d/) |
+
+Semana 3 | Material |
+:-- | :--: |
+| Complejidad computacional | **Libro:** Capítulo 3 (pag. 43) Introduction to Algorithms |
+| Estructuras de datos lineales | **Libro:** Sección 2.2 (pag. 35) Competitive Programming 3 |
+| Ejercicios | [Week 2 - ITMOx Course](https://courses.edx.org/courses/course-v1:ITMOx+I2CPx+1T2017/courseware/823f3cd014574b93afb5520087401895/03881171b78d4bb7b9e5ceb19df11461/) |
 
 **_Trabajo en proceso_**
 
