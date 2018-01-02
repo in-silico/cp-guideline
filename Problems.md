@@ -23,3 +23,8 @@ dsu | https://www.urionlinejudge.com.br/judge/en/problems/view/1527 |
 kruskal | https://icpcarchive.ecs.baylor.edu/index.php?option=onlinejudge&page=show_problem&problem=5013 |
 dijkstra | https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8&category=657&page=show_problem&problem=4897 |
 dijkstra | http://www.spoj.com/problems/EZDIJKST/ |
+
+
+algorithms | url |
+:-- | :--: |
+Mo's algorithm | http://lightoj.com/volume_showproblem.php?problem=1188 |
